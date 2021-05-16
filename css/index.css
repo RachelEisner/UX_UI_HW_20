@@ -118,6 +118,8 @@ li {
 }
 .jumbotron {
     padding-top: 130px;
+    background-color: black;
+    color: white;
 }
 .card {
     display: flex;
